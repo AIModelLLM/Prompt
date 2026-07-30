@@ -1,0 +1,10 @@
+Carikan saya berita-berita yang sedang trending hari ini di seluruh dunia, mencakup berbagai kategori berikut: politik/geopolitik global, ekonomi & pasar keuangan (termasuk forex, saham, dan kripto), teknologi & AI, serta peristiwa besar lainnya yang sedang jadi perhatian publik internasional.
+
+Untuk setiap berita, tolong sertakan:
+
+Judul singkat
+Ringkasan 2-3 kalimat (bahasa Indonesia)
+Sumber berita
+Kenapa berita ini penting/relevan (dampaknya)
+
+Prioritaskan berita dari 24 jam terakhir, dan kelompokkan berdasarkan kategori.
